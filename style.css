@@ -1,0 +1,90 @@
+body{
+    background-image: url(MaterialeEsercizioLim/background.jpg);
+    font-family: "Poppins", sans-serif;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-sizing: border-box;
+    margin: 0% 15%;
+}
+
+section{
+    background-color: rgba(0,0,0,0.5);
+    border-radius: 10px;
+    height: 85%;
+    margin: 25px;
+}
+
+header{
+    text-align: center;
+    padding-top: 100px;
+}
+
+h1{
+    color: rgba(0,221,0,255);
+    margin: auto;
+    padding: 5px;
+}
+
+nav{
+    background-color: rgba(0,221,0,255);
+    border-radius: 3px;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 10px;
+}
+
+button{
+    font-family: "Poppins"
+}
+
+main{
+    margin-left: 100px;
+    color: white;
+}
+
+h2{
+    display: inline-block;
+    font-size: large;
+    margin-bottom: auto;
+}
+
+p, span{
+    margin: auto;
+    font-size: smaller;
+    font-style: normal;
+}
+
+p:before{
+    content: "\27A5";
+}
+
+.gino div{
+    background-color: orange;
+    text-align: center;
+    border-radius: 5px;
+    width: 30%;
+    padding: 15px;
+}
+
+.mike div{
+    background-color: green;
+    text-align: center;
+    border-radius: 5px;
+    width: 60%;
+    padding: 15px;
+}
+
+.fede div{
+    background-color: red;
+    text-align: center;
+    border-radius: 5px;
+    width: 15%;
+    padding: 15px;
+}
+
+footer{
+    font-size: small;
+    text-align: right;
+    color: grey;
+}
