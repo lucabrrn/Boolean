@@ -11,12 +11,11 @@ section{
     background-color: rgba(0,0,0,0.5);
     border-radius: 10px;
     height: 85%;
-    margin: 25px;
 }
 
 header{
     text-align: center;
-    padding-top: 100px;
+    padding-top: 10%;
 }
 
 h1{
@@ -29,8 +28,8 @@ nav{
     background-color: rgba(0,221,0,255);
     border-radius: 3px;
     text-align: center;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 10%;
+    margin-right: 10%;
     padding: 10px;
 }
 
@@ -39,7 +38,7 @@ button{
 }
 
 main{
-    margin-left: 100px;
+    margin-left: 10%;
     color: white;
 }
 
